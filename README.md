@@ -1,6 +1,6 @@
-# CS210-Grocery-Item-Tracker
-Developed for academic purposes in CS210.
-The CS210 Grocery Item Tracker is an automated system designed to assist grocery store managers and inventory analysts manage stock more efficiently. 
+# CS-210-Grocery-Item-Tracker
+Developed for academic purposes in CS-210.
+The CS-210 Grocery Item Tracker is an automated system designed to assist grocery store managers and inventory analysts manage stock more efficiently. 
 By automating data collection and analysis, this application helps users quickly understand which items are selling well and which are not, 
 aiding in decision-making related to stock replenishment and marketing strategies.
 Key challenges addressed during development included ensuring case insensitivity across the application and accurately accounting for singular and plural 
